@@ -9,12 +9,12 @@ import { getFirestore} from 'firebase/firestore'
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
   apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY,
-  authDomain: "tubeguruji-startups.firebaseapp.com",
-  projectId: "tubeguruji-startups",
-  storageBucket: "tubeguruji-startups.appspot.com",
-  messagingSenderId: "706430327770",
-  appId: "1:706430327770:web:83ddab49ff4f90a8ad3ee3",
-  measurementId: "G-GWL86FD0LD"
+  authDomain: "loop-ai-38c8c.firebaseapp.com",
+  projectId: "loop-ai-38c8c",
+  storageBucket: "loop-ai-38c8c.appspot.com",
+  messagingSenderId: "763609881430",
+  appId: "1:763609881430:web:31276adb0c68b132a954f7",
+  measurementId: "G-NCMZJVQR27"
 };
 
 // Initialize Firebase
